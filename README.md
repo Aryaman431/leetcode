@@ -25,5 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryaman431/leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Aryaman431/leetcode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aryaman431/leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aryaman431/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
