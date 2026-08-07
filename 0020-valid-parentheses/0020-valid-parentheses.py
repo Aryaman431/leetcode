@@ -1,0 +1,25 @@
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        lookup = {
+            ")": "(",
+            "}": "{",
+            "]": "["
+        }
+
+        stack = []
+
+        for char in s:
+            if char in lookup:
+                top_element = stack.pop() if stack else '#'
+
+                if lookup[char] != top_element:
+                    return False
+
+            else:
+                stack.append(char)
+
+        return len(stack) == 0
