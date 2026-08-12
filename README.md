@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aryaman431/leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryaman431/leetcode/tree/master/0561-array-partition) |
 | [1470-shuffle-the-array](https://github.com/Aryaman431/leetcode/tree/master/1470-shuffle-the-array) |
 ## Greedy
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryaman431/leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryaman431/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryaman431/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Aryaman431/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aryaman431/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -70,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
