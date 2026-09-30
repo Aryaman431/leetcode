@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryaman431/leetcode/tree/master/0561-array-partition) |
 | [1470-shuffle-the-array](https://github.com/Aryaman431/leetcode/tree/master/1470-shuffle-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryaman431/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aryaman431/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryaman431/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Aryaman431/leetcode/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryaman431/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryaman431/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aryaman431/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
