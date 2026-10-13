@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Aryaman431/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryaman431/leetcode/tree/master/0561-array-partition) |
+| [0867-transpose-matrix](https://github.com/Aryaman431/leetcode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Aryaman431/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryaman431/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Aryaman431/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Aryaman431/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aryaman431/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aryaman431/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Aryaman431/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryaman431/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
