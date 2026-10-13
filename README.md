@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aryaman431/leetcode/tree/master/0561-array-partition) |
 | [1470-shuffle-the-array](https://github.com/Aryaman431/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryaman431/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Aryaman431/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aryaman431/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryaman431/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryaman431/leetcode/tree/master/0048-rotate-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Aryaman431/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aryaman431/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
