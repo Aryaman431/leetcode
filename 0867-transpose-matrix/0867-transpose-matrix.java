@@ -2,17 +2,12 @@ class Solution {
     public int[][] transpose(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
-        
-        // Create a new matrix with swapped dimensions (Cols x Rows)
-        int[][] transposed = new int[cols][rows];
-        
-        // Swap the elements
+        int[][] ans = new int[cols][rows];
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                transposed[j][i] = matrix[i][j];
+                ans[j][i] = matrix[i][j];
             }
-        }
-        
-        return transposed;
+        }       
+        return ans;
     }
 }
